@@ -8,5 +8,5 @@
 
 # This site is designed for desktop. Further adjustments can be made to make the site available on all devices.
 
-Link: https://hsaldous.github.io/Marketing-Agency-Refactor-/
+Link: https://hsaldous.github.io/Marketing-Agency-Refactor
 
